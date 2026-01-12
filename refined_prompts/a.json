@@ -1,0 +1,24 @@
+{
+  "prompt_id": "PROMPT_EF0BC946",
+  "timestamp": "2026-01-12T23:13:20.140842",
+  "input_types": [
+    "text"
+  ],
+  "core_intent": "PS D:\\Projects\\Cognifyz> & C:/Users/kamal/AppData/Local/Programs/Python/Python313/python.exe d:/Proj...",
+  "detailed_description": "PS D:\\Projects\\Cognifyz> & C:/Users/kamal/AppData/Local/Programs/Python/Python313/python.exe d:/Projects/Cognifyz/Level-1/calculator.py\nEnter the first number: 7\n\nEnter the second number: 5\n\nEnter an operator (+, -, *, /, %): +\n\nResult: 12.0\n\nPS D:\\Projects\\Cognifyz> & C:/Users/kamal/AppData/Local/Programs/Python/Python313/python.exe d:/Projects/Cognifyz/Level-1/calculator.py\nEnter the first number: 7\n\nEnter the second number: 5\n\nEnter an operator (+, -, *, /, %): -\n\nResult: 2.0\n\nPS D:\\Projects\\Cognifyz> If",
+  "domain": "software_development",
+  "functional_requirements": [],
+  "technical_constraints": [],
+  "expected_outputs": [],
+  "deliverable_format": null,
+  "background_context": null,
+  "success_criteria": [],
+  "additional_notes": null,
+  "confidence_score": 0.3,
+  "ambiguities": [
+    "Automatic extraction - may be incomplete"
+  ],
+  "assumptions_made": [
+    "Used rule-based extraction"
+  ]
+}

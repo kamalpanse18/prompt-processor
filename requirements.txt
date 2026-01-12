@@ -1,0 +1,50 @@
+# Multi-Modal Prompt Refinement System
+# Python Package Requirements
+
+# ============================================
+# CORE DEPENDENCIES (Required)
+# ============================================
+
+# PDF Processing
+PyPDF2>=3.0.0
+# Used for: Extracting text content from PDF files
+
+# Word Document Processing
+python-docx>=0.8.11
+# Used for: Reading and extracting text from .docx files
+
+# YAML Configuration Support
+PyYAML>=6.0
+# Used for: Parsing YAML configuration files
+
+# ============================================
+# IMAGE PROCESSING (Optional - for OCR)
+# ============================================
+
+# Image Processing Library
+Pillow>=9.0.0
+# Used for: Opening and manipulating image files
+
+# Python Tesseract OCR Wrapper
+pytesseract>=0.3.10
+# Used for: Interface to Tesseract OCR engine
+# Note: Requires Tesseract OCR installed on system
+
+# ============================================
+# NOTES
+# ============================================
+
+# Python Version: 3.6 or higher required
+# Platform: Windows, macOS, Linux
+
+# For image processing, you also need:
+# - Tesseract OCR (system-level installation)
+#   Windows: https://github.com/UB-Mannheim/tesseract/wiki
+#   macOS: brew install tesseract
+#   Linux: sudo apt-get install tesseract-ocr
+
+# Installation:
+# pip install -r requirements.txt
+
+# Verification:
+# python system_check.py

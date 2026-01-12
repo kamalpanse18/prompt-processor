@@ -1,0 +1,30 @@
+{
+  "prompt_id": "PROMPT_A798098C",
+  "timestamp": "2026-01-12T23:13:40.156425",
+  "input_types": [
+    "text"
+  ],
+  "core_intent": "Build a task management web app with user authentication",
+  "detailed_description": "Build a task management web app with user authentication",
+  "domain": "software_development",
+  "functional_requirements": [
+    {
+      "description": "User authentication",
+      "priority": "critical",
+      "category": "authentication"
+    }
+  ],
+  "technical_constraints": [],
+  "expected_outputs": [],
+  "deliverable_format": null,
+  "background_context": null,
+  "success_criteria": [],
+  "additional_notes": null,
+  "confidence_score": 0.3,
+  "ambiguities": [
+    "Automatic extraction - may be incomplete"
+  ],
+  "assumptions_made": [
+    "Used rule-based extraction"
+  ]
+}

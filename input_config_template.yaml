@@ -1,0 +1,15 @@
+# Input Configuration Template
+
+projects:
+  - name: my_first_project
+    inputs:
+      - requirements.pdf
+      - "Additional text context here"
+  
+  - name: my_second_project
+    inputs:
+      - |
+        Build a web application with:
+        - User authentication
+        - Dashboard
+        - Responsive design
